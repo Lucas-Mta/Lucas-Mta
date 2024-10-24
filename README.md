@@ -2,23 +2,23 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=7C30F7&width=435&lines=Hi%2C+I'm+Lucas.+Welcome+to+my+profile!" alt="Typing SVG" />
 </a>
 
-### Sobre mim
-Apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando **Sistemas de Informação** na **Unicamp**, e por aqui você encontrará projetos acadêmicos e pessoais. Sem exageros — curto resolver problemas e aprender coisas novas o tempo todo.
+### About Me
+I'm passionate about technology and software development. Currently studying **Information Systems** at **Unicamp**, you’ll find here both academic and personal projects. I'm always up for learning and solving new problems.
 
 ---
 
-## 🛠️ Habilidades Técnicas
-Algumas linguagens e ferramentas que já utilizei ao longo dos meus projetos:
+## 🛠️ Tech Stack
+Some of the languages and tools I've worked with:
 
-- **Linguagens:**  
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Languages:**  
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 - **Frontend:**  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 
 <div>
 <a href="https://github.com/Lucas-Mta">
@@ -29,12 +29,12 @@ Algumas linguagens e ferramentas que já utilizei ao longo dos meus projetos:
 
 ---
 
-## 🔗 Como me encontrar
-Vamos nos conectar ou conversar sobre desenvolvimento?
+## 🔗 Get in Touch
+Feel free to reach out to me!
 
 - **LinkedIn:** [Lucas Mota](https://www.linkedin.com/in/lucas-motadev)
 - **E-mail:** [luccas.mtaa@gmail.com](mailto:luccas.mtaa@gmail.com)
 
 ---
 
-Obrigado pela visita! 🤝
+Thanks for stopping by! 🤝
