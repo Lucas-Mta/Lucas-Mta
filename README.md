@@ -1,4 +1,5 @@
-# 👋 Opa, me chamo Lucas!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=7C30F7&width=435&lines=Hi%2C+I'm+Lucas.+Welcome+to+my+profile!" alt="Typing SVG" /></a>
+
 
 Gosto muito de tecnologia e desenvolvimento de software. Atualmente estudo **Sistemas de Informação** na **Unicamp** e nesse GitHub você poderá ver alguns dos meus projetos da faculdade assim como projetos pessoais. Espero que goste!
 
