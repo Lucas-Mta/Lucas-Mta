@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 Some of the languages and tools I've worked with: 
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,git,github,idea,vscode&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,flutter,dart,git,github,idea,vscode&theme=dark)](https://skillicons.dev)  
 
 
 <div>
